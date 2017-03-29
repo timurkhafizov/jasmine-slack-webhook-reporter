@@ -17,5 +17,8 @@
   "author": {
     "name": "Timur Khafizov"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^3.9.0"
+  }
 }
