@@ -1,0 +1,21 @@
+{
+  "name": "jasmine-slack-webhook-reporter",
+  "version": "0.0.1",
+  "description": "Slack webhook reporter for Jasmine BDD Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jasmine",
+    "reporter",
+    "bdd",
+    "spec",
+    "protractor",
+    "slack"
+  ],
+  "author": {
+    "name": "Timur Khafizov"
+  },
+  "license": "MIT"
+}
